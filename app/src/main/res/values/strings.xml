@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather Now</string>
+    <string name="logo">Погода в вашем городе</string>
+    <string name="hint_user_field">Введите город</string>
+    <string name="main_button">Узнать погоду</string>
+    <string name="no_user_input">Введите город</string>
+    <string name="disclaimer">Введите город, при следующем запуске приложения он автоматически подставится в поле ввода</string>
+</resources>
